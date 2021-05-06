@@ -122,6 +122,8 @@ __请ㅤㅤ认ㅤㅤ真ㅤㅤ阅ㅤㅤ读ㅤㅤ教ㅤㅤ程ㅤ，ㅤ90%ㅤㅤ的
 - __PC 平台__
 
       bash <(curl -sSL https://raw.githubusercontent.com/SuperManito/JD-FreeFuck/main/install.sh)
+      
+      bash <(curl -sSL https://gitee.com/mjf521/JD-FreeFuck/raw/main/install.sh)
 - __VPS 平台__
 
       bash <(curl -sSL https://raw.githubusercontent.com/SuperManito/JD-FreeFuck/main/install-vps.sh)
